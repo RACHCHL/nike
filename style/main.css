@@ -50,7 +50,7 @@ body{
     flex-direction: column;
 }
 .header__title{
-    color: #fff;
+    color: yellowgreen;
     font-size: 50px;
     margin-bottom: 15px;
 }
